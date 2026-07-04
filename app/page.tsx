@@ -160,7 +160,7 @@ export default function Home() {
           <div className="service-area__inner">
             <h2>Mobile Mechanic Service in Phoenix, AZ</h2>
             <p>
-              Rico's Mobile Mechanic and Tint serves Phoenix and nearby areas. Not sure if
+              Rico's Mobile Mechanic serves Phoenix and nearby areas. Not sure if
               you are in the service area? Call or text{" "}
               <a href={`tel:${phoneTel}`}>{phoneDisplay}</a> and Rico will let
               you know.

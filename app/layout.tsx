@@ -8,9 +8,9 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Rico's Mobile Mechanic and Tint | Phoenix Auto Repair, Detailing & Tint",
+  title: "Rico's Mobile Mechanic | Phoenix Auto Repair, Detailing & Tint",
   description:
-    "Rico's Mobile Mechanic and Tint provides mobile auto repair, diagnostics, detailing, window tinting, battery replacement, brake service, no-start troubleshooting, and more in Phoenix, AZ.",
+    "Rico's Mobile Mechanic provides mobile auto repair, diagnostics, detailing, window tinting, battery replacement, brake service, no-start troubleshooting, and more in Phoenix, AZ.",
   icons: {
     icon: "/favicon.svg",
   },

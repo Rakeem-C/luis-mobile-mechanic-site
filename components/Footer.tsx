@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="site-footer">
       <div className="footer-col">
-        <h2>Rico's Mobile Mechanic and Tint</h2>
+        <h2>Rico's Mobile Mechanic</h2>
         <p>Phoenix, AZ</p>
         <a href={`tel:${phoneTel}`}>Phone: {phoneDisplay}</a>
       </div>
@@ -24,7 +24,7 @@ export function Footer() {
         </p>
       </div>
       <p className="copyright">
-        Copyright {new Date().getFullYear()} Rico's Mobile Mechanic and Tint.
+        Copyright {new Date().getFullYear()} Rico's Mobile Mechanic.
         All rights reserved.
       </p>
     </footer>

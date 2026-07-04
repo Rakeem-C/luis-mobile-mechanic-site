@@ -26,7 +26,7 @@ export type AutomationationLeadPayload = {
 
 export function mapToAutomationationLead(
   form: ServiceRequestFormData,
-  source = "ricos-mobile-mechanic-and-tint-site"
+  source = "ricos-mobile-mechanic-site"
 ): AutomationationLeadPayload {
   return {
     source,
@@ -42,7 +42,7 @@ export function mapToAutomationationLead(
       requestedTime: form.preferredTime,
       serviceArea: form.location,
     },
-    tags: ["ricos-mobile-mechanic-and-tint", "phoenix-mobile-mechanic"],
+    tags: ["ricos-mobile-mechanic", "phoenix-mobile-mechanic"],
   };
 }
 

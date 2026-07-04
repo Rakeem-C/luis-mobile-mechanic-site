@@ -88,7 +88,7 @@ export const faqs = [
   {
     question: "What areas do you service?",
     answer:
-      "Rico's Mobile Mechanic and Tint serves Phoenix, AZ and nearby areas. Call or text to confirm your exact location.",
+      "Rico's Mobile Mechanic serves Phoenix, AZ and nearby areas. Call or text to confirm your exact location.",
   },
   {
     question: "What types of cars do you work on?",

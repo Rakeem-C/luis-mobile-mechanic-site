@@ -7,9 +7,9 @@ export function Header() {
       <Link
         className="brand"
         href="/"
-        aria-label="Rico's Mobile Mechanic and Tint home"
+        aria-label="Rico's Mobile Mechanic home"
       >
-        Rico's Mobile Mechanic and Tint
+        Rico's Mobile Mechanic
       </Link>
       <nav aria-label="Main navigation">
         <Link href="/#services">Services</Link>

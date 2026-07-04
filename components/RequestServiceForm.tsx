@@ -25,7 +25,7 @@ export function RequestServiceForm() {
 
     const payload = {
       ...form,
-      integrationSource: "ricos-mobile-mechanic-and-tint-site",
+      integrationSource: "ricos-mobile-mechanic-site",
       automationationLead: mapToAutomationationLead(form),
     };
 

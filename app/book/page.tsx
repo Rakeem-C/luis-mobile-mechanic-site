@@ -14,7 +14,7 @@ export default function BookPage() {
           <p className="eyebrow">Book service</p>
           <h1>Book Mobile Mechanic Service</h1>
           <p>
-            Choose a time that works for you, or call Luis directly at{" "}
+            Choose a time that works for you, or call Rico directly at{" "}
             <a href={`tel:${phoneTel}`}>{phoneDisplay}</a> for faster help.
           </p>
         </section>
@@ -31,7 +31,7 @@ export default function BookPage() {
         <CTA
           compact
           title="Car will not start?"
-          body="Call Luis directly when the issue is urgent or your vehicle is stuck."
+          body="Call Rico directly when the issue is urgent or your vehicle is stuck."
         />
       </main>
       <Footer />

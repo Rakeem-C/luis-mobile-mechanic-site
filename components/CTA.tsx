@@ -18,7 +18,7 @@ export function CTA({ eyebrow, title, body, compact = false }: CTAProps) {
       </div>
       <div className="button-row">
         <a className="button button--accent" href={`tel:${phoneTel}`}>
-          Call Luis Now
+          Call Rico Now
         </a>
         <Link className="button button--light" href="/contact">
           Request Service

@@ -21,7 +21,7 @@ export default function ServicesPage() {
           </p>
           <div className="button-row">
             <a className="button button--accent" href={`tel:${phoneTel}`}>
-              Call Luis Now
+              Call Rico Now
             </a>
             <Link className="button button--ghost" href="/contact">
               Request Service
@@ -38,7 +38,7 @@ export default function ServicesPage() {
         <CTA
           compact
           title="Not sure what service you need?"
-          body="Tell Luis what the vehicle is doing and he can help decide the next practical step."
+          body="Tell Rico what the vehicle is doing and he can help decide the next practical step."
         />
       </main>
       <Footer />

@@ -25,7 +25,7 @@ export function RequestServiceForm() {
 
     const payload = {
       ...form,
-      integrationSource: "luis-mobile-mechanic-site",
+      integrationSource: "ricos-mobile-mechanic-and-tint-site",
       automationationLead: mapToAutomationationLead(form),
     };
 
@@ -38,7 +38,7 @@ export function RequestServiceForm() {
     setStatus(
       response.ok
         ? "Thanks. This form is ready to connect to the live Automationation contact flow."
-        : "Something went wrong. Please call Luis directly."
+        : "Something went wrong. Please call Rico directly."
     );
   }
 
@@ -94,7 +94,7 @@ export function RequestServiceForm() {
           value={form.issue}
           onChange={updateField}
           rows={4}
-          placeholder="Tell Luis what is happening with the vehicle."
+          placeholder="Tell Rico what is happening with the vehicle."
           required
         />
       </label>

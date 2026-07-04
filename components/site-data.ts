@@ -73,22 +73,22 @@ export const faqs = [
   {
     question: "Do you come to my location?",
     answer:
-      "Yes. Luis provides mobile mechanic service at homes, workplaces, and roadside locations when the job can be handled safely on site.",
+      "Yes. Rico provides mobile mechanic service at homes, workplaces, and roadside locations when the job can be handled safely on site.",
   },
   {
     question: "What areas do you service?",
     answer:
-      "Luis Mobile Mechanic serves Phoenix, AZ and nearby areas. Call or text to confirm your exact location.",
+      "Rico's Mobile Mechanic and Tint serves Phoenix, AZ and nearby areas. Call or text to confirm your exact location.",
   },
   {
     question: "What types of cars do you work on?",
     answer:
-      "Luis works on a wide range of cars, trucks, and SUVs, including domestic and foreign vehicles.",
+      "Rico works on a wide range of cars, trucks, and SUVs, including domestic and foreign vehicles.",
   },
   {
     question: "Do you work on German and European cars?",
     answer:
-      "Yes, Luis can help with many German and European vehicles, including BMW, Mercedes-Benz, Volkswagen, Audi, Mini, Volvo, and more after diagnosis.",
+      "Yes, Rico can help with many German and European vehicles, including BMW, Mercedes-Benz, Volkswagen, Audi, Mini, Volvo, and more after diagnosis.",
   },
   {
     question: "Do I need to tow my car?",
@@ -103,7 +103,7 @@ export const faqs = [
   {
     question: "How fast can you come out?",
     answer:
-      "Availability depends on location, schedule, and the type of issue. Calling Luis directly is the fastest way to check.",
+      "Availability depends on location, schedule, and the type of issue. Calling Rico directly is the fastest way to check.",
   },
   {
     question: "How do I request service?",
@@ -120,7 +120,7 @@ export const faqs = [
 export const testimonials = [
   {
     quote:
-      "Luis came to my apartment in Phoenix and helped figure out why my car would not start. Super convenient and honest.",
+      "Rico came to my apartment in Phoenix and helped figure out why my car would not start. Super convenient and honest.",
     name: "Marisol R.",
     area: "Midtown Phoenix",
   },

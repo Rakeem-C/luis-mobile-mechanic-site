@@ -17,7 +17,7 @@ export async function POST(request: Request) {
     received: body,
     automationationLead: mapToAutomationationLead(
       body,
-      body.integrationSource ?? "luis-mobile-mechanic-site"
+      body.integrationSource ?? "ricos-mobile-mechanic-and-tint-site"
     ),
   });
 }

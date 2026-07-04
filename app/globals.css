@@ -7,8 +7,8 @@
   --text: #ffffff;
   --muted: #a7a7a7;
   --muted-2: #7b7b7b;
-  --accent: #ff5a00;
-  --accent-strong: #ff6f21;
+  --accent: #49b8c8;
+  --accent-strong: #78d3df;
 }
 
 * {
@@ -102,7 +102,7 @@ img {
 
 .hero__overlay {
   background:
-    radial-gradient(circle at top left, rgba(255, 122, 42, 0.22), transparent 28%),
+    radial-gradient(circle at top left, rgba(73, 184, 200, 0.24), transparent 28%),
     linear-gradient(180deg, rgba(0, 0, 0, 0.16), rgba(0, 0, 0, 0.62)),
     linear-gradient(90deg, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0.2));
   inset: 0;

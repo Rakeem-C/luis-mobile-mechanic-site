@@ -49,7 +49,7 @@ export default function Home() {
           <Image
             className="hero__image"
             src="/images/mobile-mechanic-hero.png"
-            alt="Luis performing mobile diagnostics on a vehicle in Phoenix"
+            alt="Rico performing mobile diagnostics on a vehicle in Phoenix"
             fill
             priority
             sizes="100vw"
@@ -64,7 +64,7 @@ export default function Home() {
             </p>
             <div className="button-row button-row--center">
               <a className="button button--accent" href={`tel:${phoneTel}`}>
-                Call Luis Now
+                Call Rico Now
               </a>
               <Link className="button button--ghost" href="/contact">
                 Request Service
@@ -99,7 +99,7 @@ export default function Home() {
           <div className="section-heading section-heading--center">
             <h2>Repairs for American, German, European & Most Other Vehicles</h2>
             <p className="section-subtitle">
-              Luis works on a wide range of cars, trucks, and SUVs, including
+              Rico works on a wide range of cars, trucks, and SUVs, including
               both domestic and foreign vehicles. Specific repairs are confirmed
               after proper diagnosis.
             </p>
@@ -113,7 +113,7 @@ export default function Home() {
 
         <section className="section section--about-grid">
           <div>
-            <h2 className="section-title-left">Why Choose Luis</h2>
+            <h2 className="section-title-left">Why Choose Rico</h2>
             <div className="reason-list">
               {reasons.map((reason) => (
                 <div className="reason-list__item" key={reason}>
@@ -123,9 +123,9 @@ export default function Home() {
             </div>
           </div>
           <div className="about-box" id="about">
-            <h3>About Luis</h3>
+            <h3>About Rico</h3>
             <p>
-              Luis helps Phoenix drivers avoid the hassle of towing, long shop
+              Rico helps Phoenix drivers avoid the hassle of towing, long shop
               waits, and confusing repair processes by bringing mechanic service
               directly to them. As a local, skilled mechanic, he focuses on
               honest assessments, practical solutions, and clear communication.
@@ -141,17 +141,17 @@ export default function Home() {
             <article>
               <span className="step-circle">1</span>
               <h3>Call, Text, or Request</h3>
-              <p>Reach out to Luis by phone, text, or the online request form.</p>
+              <p>Reach out to Rico by phone, text, or the online request form.</p>
             </article>
             <article>
               <span className="step-circle">2</span>
               <h3>Explain the Issue</h3>
-              <p>Tell Luis what is going on with your vehicle so he can prepare.</p>
+              <p>Tell Rico what is going on with your vehicle so he can prepare.</p>
             </article>
             <article>
               <span className="step-circle">3</span>
-              <h3>Luis Comes to You</h3>
-              <p>Luis arrives at your location to diagnose or repair the issue.</p>
+              <h3>Rico Comes to You</h3>
+              <p>Rico arrives at your location to diagnose or repair the issue.</p>
             </article>
           </div>
         </section>
@@ -160,9 +160,9 @@ export default function Home() {
           <div className="service-area__inner">
             <h2>Mobile Mechanic Service in Phoenix, AZ</h2>
             <p>
-              Luis Mobile Mechanic serves Phoenix and nearby areas. Not sure if
+              Rico's Mobile Mechanic and Tint serves Phoenix and nearby areas. Not sure if
               you are in the service area? Call or text{" "}
-              <a href={`tel:${phoneTel}`}>{phoneDisplay}</a> and Luis will let
+              <a href={`tel:${phoneTel}`}>{phoneDisplay}</a> and Rico will let
               you know.
             </p>
           </div>
@@ -170,7 +170,7 @@ export default function Home() {
 
         <CTA
           title="Car won't start? Need help today?"
-          body="Don't wait around. Call Luis now for fast mobile mechanic service in Phoenix."
+          body="Don't wait around. Call Rico now for fast mobile mechanic service in Phoenix."
         />
 
         <section className="section">
@@ -201,7 +201,7 @@ export default function Home() {
           <div className="section-heading section-heading--center">
             <h2>Request Service</h2>
             <p className="section-subtitle">
-              Fill out the form below and Luis will get back to you. For
+              Fill out the form below and Rico will get back to you. For
               immediate assistance, call or text {phoneDisplay}.
             </p>
           </div>
@@ -214,7 +214,7 @@ export default function Home() {
           <div className="section-heading section-heading--center">
             <h2>Book Mobile Mechanic Service</h2>
             <p className="section-subtitle">
-              Choose a time that works for you, or call Luis directly for faster
+              Choose a time that works for you, or call Rico directly for faster
               help.
             </p>
           </div>

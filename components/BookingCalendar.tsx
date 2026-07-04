@@ -18,7 +18,7 @@ export function BookingCalendar() {
         ))}
       </div>
       <p>
-        Select a preferred time in the future calendar connection, or call Luis
+        Select a preferred time in the future calendar connection, or call Rico
         directly for faster help.
       </p>
       <p className="booking-calendar__help">

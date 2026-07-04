@@ -14,7 +14,7 @@ export default function ContactPage() {
           <p className="eyebrow">Contact</p>
           <h1>Request Service</h1>
           <p>
-            Fill out the form below and Luis will get back to you. For immediate
+            Fill out the form below and Rico will get back to you. For immediate
             assistance, call or text{" "}
             <a href={`tel:${phoneTel}`}>{phoneDisplay}</a>.
           </p>

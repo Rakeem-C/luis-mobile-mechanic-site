@@ -1,0 +1,9 @@
+.next/
+node_modules/
+out/
+dist/
+*.log
+*-check.png
+*-final.png
+.env*
+!.env.example

@@ -13,11 +13,11 @@ export default function ServicesPage() {
       <main>
         <section className="page-hero">
           <p className="eyebrow">Services</p>
-          <h1>Phoenix mobile auto repair for many vehicle types.</h1>
+          <h1>Phoenix mobile auto repair, detailing, and tint.</h1>
           <p>
             Mobile diagnostics Phoenix, no-start troubleshooting, maintenance,
-            and repair help for American, German, European, and most other cars,
-            trucks, and SUVs.
+            detailing, tinting, and repair help for American, German,
+            European, and most other cars, trucks, and SUVs.
           </p>
           <div className="button-row">
             <a className="button button--accent" href={`tel:${phoneTel}`}>

@@ -58,9 +58,9 @@ export default function Home() {
           <div className="hero__content hero__content--centered">
             <h1>Phoenix Mobile Mechanic That Comes to You</h1>
             <p className="hero__subhead">
-              Fast, reliable mobile auto repair and diagnostics for American,
-              German, European, and most other vehicles at your home, workplace,
-              or roadside.
+              Fast, reliable mobile auto repair, diagnostics, detailing, and
+              tinting for American, German, European, and most other vehicles at
+              your home, workplace, or roadside.
             </p>
             <div className="button-row button-row--center">
               <a className="button button--accent" href={`tel:${phoneTel}`}>
@@ -84,8 +84,8 @@ export default function Home() {
           <div className="section-heading section-heading--center">
             <h2>Services</h2>
             <p className="section-subtitle">
-              Comprehensive mobile mechanic services for almost any vehicle,
-              right at your location in Phoenix.
+              Comprehensive mobile mechanic, detailing, and tint services for
+              almost any vehicle right at your location in Phoenix.
             </p>
           </div>
           <div className="service-grid">
@@ -127,8 +127,8 @@ export default function Home() {
             <p>
               Rico helps Phoenix drivers avoid the hassle of towing, long shop
               waits, and confusing repair processes by bringing mechanic service
-              directly to them. As a local, skilled mechanic, he focuses on
-              honest assessments, practical solutions, and clear communication.
+              directly to them. He also offers detailing and tinting, giving
+              drivers one local contact for both vehicle care and repair needs.
             </p>
           </div>
         </section>

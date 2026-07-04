@@ -25,7 +25,8 @@ export default function ContactPage() {
             <p>
               The payload mapper is already in place so this form can hand off
               to Automationation's contact intake without changing the front-end
-              fields later.
+              fields later, whether the request is for repair, detailing, or
+              tint service.
             </p>
           </div>
           <RequestServiceForm />

@@ -3,6 +3,16 @@ export const phoneTel = "6023761998";
 
 export const services = [
   {
+    title: "Auto detailing",
+    description:
+      "Interior and exterior detailing help to keep your vehicle cleaner, sharper, and better cared for.",
+  },
+  {
+    title: "Window tinting",
+    description:
+      "Tinting service for added privacy, reduced glare, and a cooler cabin in the Phoenix heat.",
+  },
+  {
     title: "Mobile diagnostics",
     description:
       "Get practical answers at your home, work, or roadside before deciding the next repair step.",
@@ -99,6 +109,11 @@ export const faqs = [
     question: "Do you provide diagnostics?",
     answer:
       "Yes. Diagnostics are available for check engine lights, no-start issues, charging problems, drivability concerns, and more.",
+  },
+  {
+    question: "Do you also offer detailing and tinting?",
+    answer:
+      "Yes. Rico also offers auto detailing and tinting, so you can ask about both appearance and repair-related vehicle needs when you call or request service.",
   },
   {
     question: "How fast can you come out?",
